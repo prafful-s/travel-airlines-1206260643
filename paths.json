@@ -1,22 +1,14 @@
 {
   "mappings": [
-    "/content/carvelo/language-masters/en:/",
-    "/content/carvelo/language-masters/en/:/en/",
-    "/content/carvelo/language-masters/fr/:/fr/",
-    "/content/carvelo/language-masters/fr:/fr",
-    "/content/carvelo/language-masters/es/:/es/",
-    "/content/carvelo/language-masters/es:/es",
-    "/content/carvelo/language-masters/ja/:/ja/",
-    "/content/carvelo/language-masters/ja:/ja",
-    "/content/carvelo/language-masters/de/:/de/",
-    "/content/carvelo/language-masters/de:/de",
-    "/content/carvelo/configuration:/.helix/config.json",
-    "/content/carvelo/metadata:/metadata.json",
-    "/content/carvelo/redirects:/redirects.json",
-    "/content/carvelo/placeholders:/placeholders.json"
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/language-masters/en:/",
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/language-masters/en/:/en/",
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/configuration:/.helix/config.json",
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/metadata:/metadata.json",
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/redirects:/redirects.json",
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/carvelo/",
-    "/content/dam/carvelo/"
+    "/content/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/",
+    "/content/dam/praffulatwork@gmail.com/6a2baa753916f042e4da04ca/"
   ]
 }
